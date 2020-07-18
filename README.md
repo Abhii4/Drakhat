@@ -1,8 +1,8 @@
-### Hi I'm Abhishek 👋
+### Hi Welcome to my Github profile. 👋
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working as Developer for Flutter and MERN Stack
 
